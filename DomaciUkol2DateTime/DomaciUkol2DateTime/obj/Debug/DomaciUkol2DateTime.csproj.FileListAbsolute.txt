@@ -1,0 +1,10 @@
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\bin\Debug\DomaciUkol2DateTime.exe.config
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\bin\Debug\DomaciUkol2DateTime.exe
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\bin\Debug\DomaciUkol2DateTime.pdb
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\obj\Debug\DomaciUkol2DateTime.csprojAssemblyReference.cache
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\obj\Debug\DomaciUkol2DateTime.Form1.resources
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\obj\Debug\DomaciUkol2DateTime.Properties.Resources.resources
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\obj\Debug\DomaciUkol2DateTime.csproj.GenerateResource.cache
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\obj\Debug\DomaciUkol2DateTime.csproj.CoreCompileInputs.cache
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\obj\Debug\DomaciUkol2DateTime.exe
+G:\Programování\DomaciUkol2DateTime\DomaciUkol2DateTime\obj\Debug\DomaciUkol2DateTime.pdb
